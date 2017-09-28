@@ -1,2 +1,3 @@
-# Formas-GeomEtricas-Java-Applet
-Exemplo de Applet em Java, desenhando formas geométricas (círculo, triângulo, quadrado)
+# Applet simples para desenhar formas Geométricas
+
+Applet criando com a biblioteca awt.Graphics.
